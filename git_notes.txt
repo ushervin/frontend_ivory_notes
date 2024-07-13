@@ -1,1 +1,2 @@
-ii git init is used to initialize git in a directory to create a new git repository
+ git init is used to initialize git in a directory to create a new git repository
+ git status is used to know the cuurent state of your directory, whether the changes are being tracked or not
